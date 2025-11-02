@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">مولد الزوامل اليمنية</string>
+    <string-array name="types_array">
+        <item>زامل</item>
+        <item>شيلة</item>
+        <item>قصيدة</item>
+    </string-array>
+</resources>
